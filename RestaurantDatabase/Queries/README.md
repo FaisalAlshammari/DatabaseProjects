@@ -1,4 +1,5 @@
 # Queries:
+Here some of the queries I ran on the database 
 #### Query 1:  
 **List customers names who ordered food over 40 riyals**  
 select CuName, payment.amount  
